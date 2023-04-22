@@ -1,7 +1,7 @@
 Git live link - 
 https://raviprasaath.github.io/Gaming-site-assignment2/
 
-Screensort of web
+Screensorts of web
 ![image](https://user-images.githubusercontent.com/117162868/233085263-2195e388-55d9-4c2f-83db-2b7c0ce2c714.png)
 
 ![image](https://user-images.githubusercontent.com/117162868/233085308-0c1dfd06-c220-4eac-9c97-a1914ab5a606.png)
